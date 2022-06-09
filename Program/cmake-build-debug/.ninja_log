@@ -1,0 +1,25 @@
+# ninja log v5
+11	845	6762358227215372	CMakeFiles/QuanLiSinhVien.dir/Header/ConstString.cpp.obj	d25fd04808be8bc9
+850	2560	6762358244340560	CMakeFiles/QuanLiSinhVien.dir/Header/ThongKe.cpp.obj	c25d24f441c2a949
+2561	3636	6762358255115783	CMakeFiles/QuanLiSinhVien.dir/Header/LopHocPhan.cpp.obj	ebf08aa1c4c19760
+7	1349	6762358232255302	CMakeFiles/QuanLiSinhVien.dir/Header/Date.cpp.obj	bf02b74324da386e
+25	1424	6762358232985294	CMakeFiles/QuanLiSinhVien.dir/Header/SinhVien.cpp.obj	8b875ef5d32b948
+14	2071	6762358239425280	CMakeFiles/QuanLiSinhVien.dir/Header/InDanhSach.cpp.obj	f565f17437958770
+1351	2848	6762358247235818	CMakeFiles/QuanLiSinhVien.dir/Header/SapXep.cpp.obj	cd0fbe40ff128db
+1	3490	6762358253635904	CMakeFiles/QuanLiSinhVien.dir/main.cpp.obj	b7a248ec5f1bc391
+18	3739	6762358256145788	CMakeFiles/QuanLiSinhVien.dir/Header/Menu.cpp.obj	77e429ec48ed0b43
+2072	4461	6762358263385744	CMakeFiles/QuanLiSinhVien.dir/Header/Tools.cpp.obj	cdcb2e13c8ed260c
+1425	4665	6762358265415758	CMakeFiles/QuanLiSinhVien.dir/Header/TimKiem.cpp.obj	7a8ecd7b949d9577
+4665	5596	6762358274611612	QuanLiSinhVien.exe	39876e2b77378bdf
+17	608	6762610057179078	CMakeFiles/QuanLiSinhVien.dir/Header/ConstString.cpp.obj	bd6660bbe55ae05c
+11	909	6762610060299101	CMakeFiles/QuanLiSinhVien.dir/Header/Date.cpp.obj	bb8c3a017e1dad90
+24	1353	6762610064689070	CMakeFiles/QuanLiSinhVien.dir/Header/SapXep.cpp.obj	a220cd9e48d723f8
+20	1455	6762610065739077	CMakeFiles/QuanLiSinhVien.dir/Header/InDanhSach.cpp.obj	dd15cd692649ea77
+608	1462	6762610065829054	CMakeFiles/QuanLiSinhVien.dir/Header/SinhVien.cpp.obj	f4ab4549cd308ef5
+1462	2605	6762610077219107	CMakeFiles/QuanLiSinhVien.dir/Header/LopHocPhan.cpp.obj	370b0677983b8170
+1455	2722	6762610078409062	CMakeFiles/QuanLiSinhVien.dir/Header/ThongKe.cpp.obj	faba92cd226829d0
+6	3001	6762610081219049	CMakeFiles/QuanLiSinhVien.dir/main.cpp.obj	6ad2859da0ce0232
+13	3020	6762610081409022	CMakeFiles/QuanLiSinhVien.dir/Header/Menu.cpp.obj	9b3fd39753ae6eae
+1354	3568	6762610086886300	CMakeFiles/QuanLiSinhVien.dir/Header/Tools.cpp.obj	a0eaba7614184518
+909	3714	6762610088336628	CMakeFiles/QuanLiSinhVien.dir/Header/TimKiem.cpp.obj	bd74fa199e3a2da7
+3714	4507	6762610096068056	QuanLiSinhVien.exe	39876e2b77378bdf

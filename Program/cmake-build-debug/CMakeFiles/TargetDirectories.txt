@@ -1,0 +1,3 @@
+C:/Users/dungm/Desktop/QLSV_KTLT/Program/cmake-build-debug/CMakeFiles/QuanLiSinhVien.dir
+C:/Users/dungm/Desktop/QLSV_KTLT/Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dungm/Desktop/QLSV_KTLT/Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
